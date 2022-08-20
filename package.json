@@ -2,7 +2,7 @@
   "name": "react-without-cra",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "start": "webpack-dev-server .",
     "build": "webpack .",
@@ -40,8 +40,8 @@
     "sass": "^1.54.5"
   },
   "lint-staged": {
-    "*.js": "eslint --cache --fix",
+    "*.jsx": "eslint --cache --fix",
     "*.--write": "prettier --write",
-    "*.{js, css, md, html, json}": "prettier --cache --write"
+    "*.{jsx, css, md, html, json}": "prettier --cache --write"
   }
 }
