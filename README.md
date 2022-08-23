@@ -5,7 +5,7 @@ Never use create-react-app again!
 
 Run npm init -y
 
-Install the following NPM pacakges to get it up and running:<br>
+Install the following pacakges via npm or yarn to get it up and running:<br>
 Use --save-dev for all except react, react-dom and sass
 - @babel/cli
 - @bable/core
@@ -14,8 +14,11 @@ Use --save-dev for all except react, react-dom and sass
 - babel-loader
 - eslint
 - eslint-config-prettier
+- eslint-plugin-jest
 - husky (setup to use .jsx extensions when running commit/test)
 - html-webpack-plugin
+- jest
+- jest-environment-jsdom
 - prettier (use --save-dev and --save-exact)
 - webpack 
 - webpack-cli 
@@ -23,6 +26,8 @@ Use --save-dev for all except react, react-dom and sass
 - react (make sure to use .jsx instead of .js for files)
 - react-dom 
 - sass (optional)
+- @testing-library/react 
+- @testing-library/jest-dom
 
 Make sure to use git init before installing husky<br>
 <br>
