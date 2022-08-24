@@ -12,6 +12,7 @@ Use --save-dev for all except react, react-dom and sass
 - @babel/preset-env
 - @babel/preset-react
 - babel-loader
+- css-loader (needed by webpack)
 - eslint
 - eslint-config-prettier
 - eslint-plugin-jest
@@ -26,6 +27,7 @@ Use --save-dev for all except react, react-dom and sass
 - react (make sure to use .jsx instead of .js for files)
 - react-dom 
 - sass (optional)
+- sass-loader (optional, needed with sass)
 - @testing-library/react 
 - @testing-library/jest-dom
 
