@@ -1,7 +1,8 @@
 import React from 'react';
+import './App.scss';
 
 function App() {
-	return <h1>Made WITHOUT using Create React App!</h1>;
+	return <div className="header">Made without using create react app!</div>;
 }
 
 export default App;
