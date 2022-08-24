@@ -12,7 +12,7 @@ Use --save-dev for all except react, react-dom and sass
 - @babel/preset-env
 - @babel/preset-react
 - babel-loader
-- css-loader (needed by webpack)
+- css-loader (if not using sass)
 - eslint
 - eslint-config-prettier
 - eslint-plugin-jest
