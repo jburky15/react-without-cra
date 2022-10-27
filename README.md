@@ -1,7 +1,7 @@
 # react-without-cra (Now open to the public!)
 
 <p align="center" width="100%">
-    <img width="25%" src="public/x-cra.png">
+    <img width="25%" src="public/x-cra-corrected.png">
 </p>
 
 A boilerplate for React made manually without the use of CRA.<br>
