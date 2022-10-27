@@ -1,4 +1,4 @@
-# react-without-cra
+# react-without-cra (Now open to the public!)
 
 A boilerplate for React made manually without the use of CRA.<br>
 Never use create-react-app again!
